@@ -1,4 +1,4 @@
-# swift-ui
+# flexible-ui
 
 ## Project setup
 ```
